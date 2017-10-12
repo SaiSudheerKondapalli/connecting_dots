@@ -5,13 +5,15 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version -> 2.4.1p111
+
+* Rails Version  -> 5.1.4
 
 * System dependencies
 
 * Configuration
 
-* Database creation
+* Database creation  -> current running database is SQLlite which is pre build in Rails
 
 * Database initialization
 
